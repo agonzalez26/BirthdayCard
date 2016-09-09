@@ -1,8 +1,8 @@
-/*Card outline*/
+
 .card{
   background-image: url(stripes.jpg);
 }
-#heading{
+.heading{
   font-family: Papyrus;
   color: #24cdd4;
   text-align:center;
