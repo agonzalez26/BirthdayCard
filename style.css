@@ -1,6 +1,7 @@
 /*design for the entire card*/
 .card{/*1 property*/
   background-image: url(stripes.jpg);
+
 }
 .heading{/*4 properties*/
   font-family: Papyrus;
@@ -8,7 +9,9 @@
   text-align:center;
   font-size: 400%;
 }
-.image{/*1 property*/
+.image{/*4 properties*/
   float: left;
   margin-left: 100px;
+  width: 350px;
+  height: 400px;
 }
